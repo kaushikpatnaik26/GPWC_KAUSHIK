@@ -1,1 +1,3 @@
 g++ timberManGame.cpp -o timber -lsfml-window -lsfml-system -lsfml-graphics
+
+//command to compile and run the code in linux system. 
