@@ -1,0 +1,1 @@
+g++ timberManGame.cpp -o timber -lsfml-window -lsfml-system -lsfml-graphics
