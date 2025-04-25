@@ -9,5 +9,6 @@ while(window.isOpen()){
             }
         window.clear();
         window.display();
+        
     }
 }
