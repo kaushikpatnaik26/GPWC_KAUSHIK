@@ -1,0 +1,1 @@
+RenderWindow window (VideoMode(960,540)"MY RENDER WINDOW");
