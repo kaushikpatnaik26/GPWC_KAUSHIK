@@ -3,7 +3,7 @@ texture.loadfilefrom("Soa.png");
 Sprite sprite;
 sprite.setTexture(texture);
 
-RenderWindow windoe(VideoMode(960,540), "Soa Logo");
+RenderWindow window(VideoMode(960,540), "Soa Logo");
 while(window.isOpen())
 {
     Event event;
